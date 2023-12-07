@@ -1,0 +1,135 @@
+body {
+margin: 0;
+font-family: 'Roboto', sans-serif;
+}
+.header {
+background-color: #ff5005;
+border-bottom: 2px solid #ff5005;
+display: flex;
+justify-content: left;
+padding: 25px;
+width: 100%;
+}
+.logo-container {
+width: 30%;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+margin-left: -530px;
+margin-top: 1%;
+}
+.logo {
+width:150px;
+height:50px;
+float:left;
+margin-left:300px;
+margin-top: 15px;
+}
+.toptext-shopee{
+color: white;
+font-size: 12px;
+left: 0;
+top: 0;
+position: absolute;
+margin-left: 350px;
+font-family: 'Roboto', sans-serif
+}
+.topright-shopee {
+margin-bottom: 10px;
+text-align: right;
+color: white;
+font-size: 12px;
+right: 0;
+top: 0;
+position: absolute;
+margin-right: 350px;
+}
+.search-container {
+width: 46%;
+margin-right: 50px;
+border: solid;
+background-color: white;
+border-color: #ff5005;
+padding-top: -10px;
+height: 50px;
+border-radius: 0;
+margin-left: 0px;
+margin-top: 18px;
+}
+.signup {
+color: gray;
+font-size: 18px;
+margin-bottom: 1%;
+padding-left: 10px;
+}
+.category {
+margin: 20px 0;
+color: white;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+margin-top: -20px;
+font-size:81%;
+} 
+#cart {
+width:30px;
+height:30px;
+float:right;
+margin-right:260px;
+margin-top: 35px;
+}
+.left, .right{
+    border-collapse: collapse;
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+.nest {
+    padding-bottom: 10px;
+}
+.picturebox{
+    padding-left:265px;
+    padding-right:265px;
+    padding-top:20px;
+    padding-bottom:10px;
+    background-color: white;
+}
+.shopcontainer{
+  display: flex;
+}
+.shopbox{
+  margin-right:15px;
+  margin-top: 15px;
+  text-align: center;
+  width: 120px;
+}
+.shopcontainer2{
+  display: flex;
+}
+.shopbox2{
+  border: solid;
+  border-color: white;
+  border-radius: 1px;
+  margin-right:0px;
+  margin-top: 0px;
+  text-align: center;
+  width: 100%;
+}
+body{
+  background-color:lightgray;
+}
+.box{
+  background-color: white;
+  width: 80%;
+  margin: auto;
+}
+.shopcontainer3{
+  display: flex;
+}
+.shopbox3{
+  margin-right:0px;
+  margin-top: 0px;
+  text-align: center;
+  width: 100%;
+}
